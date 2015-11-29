@@ -3,7 +3,10 @@
 
 int main(){
 
-	printf("test");
+int a;
 
+	printf("Entrer une valeur:\n");
+	scanf("%d%*c",a);
+	
 	return 0;
 }
