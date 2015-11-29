@@ -21,9 +21,14 @@ return;
 
 int main(){
 
+<<<<<<< HEAD
 int iTab[TAILLE];
 int iNb;
 
+=======
+	printf("Entrer une valeur:\n");
+	scanf("%d%*c",a);
+>>>>>>> 6a8ab7d56e8011d0f05b4484e0e0e8e45c0b7089
 	
 	saisirTab(iTab,&iNb);
 
